@@ -4,14 +4,7 @@ import { useRouter } from 'next/router'
 import React, { FC, useCallback, useEffect } from 'react'
 import { useIntl } from 'react-intl'
 import Landing_Page from 'components/Landing/Landing_Page';
-const TopSection: FC<{}> = (): JSX.Element => {
-    return <>
-        <header>
 
-
-        </header>
-    </>
-}
 
 
 
